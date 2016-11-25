@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: synfony.cjfuk9hotdad.us-west-2.rds.amazonaws.com
+    database_port: 3306
+    database_name: synfonydb
+    database_user: root
+    database_password: after123
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 4d0ab5056167ef033e873967fd8f61d63c63319e
